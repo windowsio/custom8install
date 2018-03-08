@@ -1,0 +1,12 @@
+C:\Users\windowsio\source\repos\Windows8NEWinstaller\Windows8NEWinstaller\bin\Debug\Windows8NEWinstaller.exe
+C:\Users\windowsio\source\repos\Windows8NEWinstaller\Windows8NEWinstaller\bin\Debug\Windows8NEWinstaller.pdb
+C:\Users\windowsio\source\repos\Windows8NEWinstaller\Windows8NEWinstaller\bin\Debug\Windows8NEWinstaller.xml
+C:\Users\windowsio\source\repos\Windows8NEWinstaller\Windows8NEWinstaller\obj\Debug\Windows8NEWinstaller.vbprojResolveAssemblyReference.cache
+C:\Users\windowsio\source\repos\Windows8NEWinstaller\Windows8NEWinstaller\obj\Debug\Windows8NEWinstaller.Form1.resources
+C:\Users\windowsio\source\repos\Windows8NEWinstaller\Windows8NEWinstaller\obj\Debug\Windows8NEWinstaller.Resources.resources
+C:\Users\windowsio\source\repos\Windows8NEWinstaller\Windows8NEWinstaller\obj\Debug\Windows8NEWinstaller.vbproj.GenerateResource.Cache
+C:\Users\windowsio\source\repos\Windows8NEWinstaller\Windows8NEWinstaller\obj\Debug\Windows8NEWinstaller.vbproj.CoreCompileInputs.cache
+C:\Users\windowsio\source\repos\Windows8NEWinstaller\Windows8NEWinstaller\obj\Debug\Windows8NEWinstaller.exe
+C:\Users\windowsio\source\repos\Windows8NEWinstaller\Windows8NEWinstaller\obj\Debug\Windows8NEWinstaller.xml
+C:\Users\windowsio\source\repos\Windows8NEWinstaller\Windows8NEWinstaller\obj\Debug\Windows8NEWinstaller.pdb
+C:\Users\windowsio\source\repos\Windows8NEWinstaller\Windows8NEWinstaller\obj\Debug\Windows8NEWinstaller.InstallerSplash.resources
